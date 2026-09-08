@@ -1,6 +1,6 @@
 # Streakside
 
-Streakside turns daily habits into a friendly game. Players check in on workouts, reading, hydration, or custom goals, collect XP, protect streaks, and compare daily progress with friends.
+Streakside turns daily habits into a friendly game. Players check in on workouts, reading, hydration, or custom goals, collect XP, protect streaks, and compare daily progress with friends :)
 
 ## Features
 
